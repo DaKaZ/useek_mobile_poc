@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="mainWin" title="USeek" platform="android,ios">
+        <Require src="home" id="home" onOpenMenu="openMenu" />
+        <Require src="menu" id="menu"/>
+    </Window>
+
+  <!-- Main Window for unsupported platforms -->
+  <Window id="mainWin" platform="blackberry,mobileweb,tizen">
+    <Label>USeek app is only supported on Android and iOS</Label>
+  </Window>
+</Alloy>

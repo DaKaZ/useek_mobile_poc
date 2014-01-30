@@ -1,0 +1,6 @@
+<Alloy>
+  <TableViewRow id="row" backgroundImage="http://10.255.255.1:3000{thumbnail_url}" >
+    <Label text="{title}" onClick="playGame"/>
+    <ImageView id="play" onClick="playGame"/>
+  </TableViewRow>
+</Alloy>

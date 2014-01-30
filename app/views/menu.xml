@@ -1,0 +1,5 @@
+<Alloy>
+    <View id='divMenu' backgroundColor="#500" height="100%" width="300" left="-300">
+    	<Label id="lblCloseMenu" onClick="hideMenu" right="10dp" top="10dp" width="60dp" height="20dp">Close</Label>	
+	</View>
+</Alloy>

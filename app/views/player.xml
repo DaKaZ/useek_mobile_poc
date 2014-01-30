@@ -1,0 +1,7 @@
+<Alloy>
+    <Window id="playerWin" title="USeek Player" backgroundColor="#fff">
+    	<Label id="lblClose" onClick="closePlayer" right="10dp" top="10dp" width="60dp" height="20dp">Close</Label>
+    	<Label id="lblOutput"></Label>	
+		<Label id="lblPlay" onClick="playVideo">Play</Label>
+    </Window>
+</Alloy>

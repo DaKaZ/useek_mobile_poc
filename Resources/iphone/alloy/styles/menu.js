@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.001,"key":"lblCloseMenu","style":{right:"10dp",color:"#ddd",width:"60dp",height:"20dp",borderColor:"#ddd",borderWidth:1,borderRadius:5,font:{fontSize:"10dp",},textAlign:"center",}}];

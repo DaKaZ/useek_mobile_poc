@@ -1,0 +1,23 @@
+<Alloy>
+
+	    <!-- header -->
+	    <View id="header">
+	      <Label id="title">U*Seek</Label>
+	      <Label id="lblShowMenu" onClick="showMenu">Menu</Label>
+	    </View>
+	    
+	    <View id="btnGames" class="btnLarge" onClick="openGamesWindow">
+	    	<Label id="lblGames" class="lblLargeButton">Games</Label>
+	    </View>
+	    
+	    <View id="btnAccount" class="btnLarge" onClick="openAccountWindow">
+	    	<Label id="lblAccount" class="lblLargeButton">My Account</Label>
+	    </View>
+	    
+	    <View id="btnFeature" class="btnFeature" onClick="openFeaturedGame">
+	    	<Label id="lblFeatures" class="lblLargeButton">Featured Game</Label>
+	    </View>
+	    
+
+
+</Alloy>
